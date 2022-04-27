@@ -1,0 +1,15 @@
+{   
+
+    "speed_config":{
+        "model_path" : "models/best2.pt",
+        "area_handle": [[888,424],[1265,422],[820,1011],[1567,1005]],
+        "estimateKM": [0.0184 ,0.0060]
+    },
+    "traffic_light_config" :{
+        "turn_left": false,
+        "turn_right": true,
+        "main_line": [[]],
+        "left_line": [[]],
+        "right_line":[[]]
+    }
+}

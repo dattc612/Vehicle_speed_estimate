@@ -1,0 +1,14 @@
+INFO:root:START INITIALIZE MODEL DETECT VEHICLE
+INFO:yolov5:YOLOv5  v6.1-36-gc09fb2a torch 1.11.0+cu113 CUDA:0 (Quadro M500M, 2048MiB)
+
+INFO:yolov5:Fusing layers... 
+INFO:yolov5:Model Summary: 213 layers, 7018216 parameters, 0 gradients
+INFO:yolov5:Adding AutoShape... 
+INFO:root:END INITIALIZE MODEL DETECT VEHICLE
+INFO:root:START INITIALIZE MODEL DETECT LICENSE PLATE
+INFO:yolov5:YOLOv5  v6.1-36-gc09fb2a torch 1.11.0+cu113 CUDA:0 (Quadro M500M, 2048MiB)
+
+INFO:yolov5:Fusing layers... 
+INFO:yolov5:Model Summary: 213 layers, 7018216 parameters, 0 gradients
+INFO:yolov5:Adding AutoShape... 
+INFO:root:END INITIALIZE MODEL DETECT LICENSE PLATE
