@@ -1,0 +1,24 @@
+
+{   
+
+    "common_config":{
+        "path_model" : "core/models/best2.pt",
+        "path_detect_number": "core/models/detect_number_3.pt",
+        "path_mode_license_plate": "core/models/best_lp_4.pt",
+        "speed_estimate_area": [[1068,204],[2325,219],[171,1741],[3206,1759]],
+        "estimateKM": [0.0156,0.021],
+        "tracking_area": [[1068,204],[2325,219],[171,1741],[3206,1759]],
+        "deadline": [[858,618],[2526,612]],
+        "video_path": "E:/IAMDAT/Data/DOANCUOIKY/Video/91.mp4",
+        "max_speed_motocycle": 40,
+        "max_speed_car":50,
+        "max_speed_track":50
+    },
+    "traffic_light_config" :{
+        "turn_left": false,
+        "turn_right": true,
+        "main_line": [[]],
+        "left_line": [[]],
+        "right_line":[[]]
+    }
+}
